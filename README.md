@@ -165,7 +165,7 @@ A visually consolidated dashboard that includes:
 - Power Query (Data > Get & Transform)
 - Hyperlinks & Form Controls
 - Slicers, Conditional Formatting
-- Chart Types: Clustered, Stacked, Pie, 3D Line
+- Chart Types: Clustered, Stacked, Bar, Line
 
 ---
 
@@ -195,5 +195,6 @@ This Excel project delivers a full-scale business intelligence solution for the 
 ## 🙋‍♂️ Author
 
 **Manas Nayan Mukherjee**  
+ Aspiring Data Analyst
  Excel & BI Enthusiast  
 ---
